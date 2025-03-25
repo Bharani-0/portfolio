@@ -4,7 +4,8 @@ Hello! I'm Bharanisree SV, a web developer with a keen interest in building mode
 
 I enjoy the process of transforming ideas into working solutions and always strive to improve my skills and stay updated with the latest trends in the tech world. Whether it's a small personal project or a full-fledged web app, I approach each task with enthusiasm and dedication.ech community.
 
-Technologies & Tools
+Technologies & Tools:
+
 Frontend: HTML, CSS, JavaScript, React
 
 Backend: Node.js, Express
@@ -13,7 +14,8 @@ Database: MongoDB, MySQL
 
 Languages: Java, C++, Python
 
-Featured Projects
+Featured Projects:
+
 Portfolio Website: A personal site showcasing my skills and projects.
 
 E-commerce App: A React & Node.js-powered e-commerce application.
